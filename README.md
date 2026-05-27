@@ -1,91 +1,152 @@
 # 👋 Hi, I'm Swarnavo
 
-## 🚀 Full Stack Developer | SDET | Test Automation Engineer
+<div align="center">
 
-Backend-focused developer with experience in scalable web applications, OTT platforms, API development, automation testing, and cloud integrations.
+<img src="https://github.com/swarnavowork.png" width="140" style="border-radius:50%" />
+
+# 🚀 Full Stack Developer | SDET | Test Automation Engineer
+
+### Building scalable backend systems, automation frameworks & modern web applications.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Testing-Playwright-blue?style=for-the-badge&logo=playwright" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws" />
+</p>
+
+</div>
 
 ---
 
-# 💼 What I Do
+# 💫 About Me
 
-* 🔹 Full Stack Web Development
-* 🔹 Backend API Development
-* 🔹 Node.js & Express.js Applications
-* 🔹 MongoDB Database Design
-* 🔹 OTT Platform Architecture
-* 🔹 Test Automation Frameworks
-* 🔹 SDET & QA Engineering
-* 🔹 CI/CD & Deployment
-* 🔹 Cloud & AWS Integrations
+```yaml
+Name: Swarnavo
+Role: Full Stack Developer & SDET
+Focus:
+  - Backend Development
+  - Test Automation
+  - OTT Platforms
+  - Cloud Integrations
+  - API Development
+```
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ Tech Stack
 
-### Backend
+## 🚀 Backend Development
 
-* Node.js
-* Express.js
-* MongoDB
-* Redis
-* JWT Authentication
-* REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase" />
+</p>
 
-### Frontend
+---
 
-* React.js
-* Next.js
-* Tailwind CSS
+## 🎨 Frontend Development
 
-### Testing & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" />
+</p>
 
-* Selenium
+---
+
+## 🧪 Testing & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=selenium,cypress,postman" />
+</p>
+
 * Playwright
-* Cypress
-* Postman
 * API Automation
-
-### DevOps & Cloud
-
-* AWS
-* Docker
-* GitHub Actions
-* Cloudinary
-* Firebase
+* Automation Framework Development
+* End-to-End Testing
 
 ---
 
-# 📌 Featured Projects
+## ☁️ DevOps & Cloud
 
-## 🎬 OTT Backend Platform
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,github,linux" />
+</p>
 
-Scalable OTT backend system with:
+---
 
-* Authentication
-* Subscription Management
-* Payment Gateway
-* Continue Watching
-* Watch History
-* CMS Module
+# 🔥 Featured Project
+
+# 🎬 OTT Backend Platform
+
+A scalable OTT backend system with:
+
+✅ JWT Authentication
+✅ Google Login
+✅ OTP Verification
+✅ Subscription Management
+✅ Payment Gateway Integration
+✅ Continue Watching
+✅ Watch History
+✅ CMS Module
+✅ REST APIs
+✅ Secure Architecture
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swarnavowork\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swarnavowork\&layout=compact\&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=swarnavowork&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnavowork&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swarnavowork&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-* GitHub: https://github.com/swarnavowork
-* LinkedIn: Add Your LinkedIn
-* Portfolio: Add Portfolio Link
+<p align="center">
+<a href="https://github.com/swarnavowork">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+</a>
+</p>
 
 ---
 
-# ⚡ Current Focus
+# 💻 Current Focus
 
-Building scalable backend systems, automation frameworks, and production-ready freelance projects.
+```text
+✔ Backend APIs
+✔ OTT Platforms
+✔ Automation Frameworks
+✔ Cloud Infrastructure
+✔ Scalable Architecture
+✔ Freelance Projects
+```
+
+---
+
+<div align="center">
+
+## ⚡ Code • Test • Automate • Deliver ⚡
+
+</div>
