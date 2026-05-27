@@ -2,16 +2,16 @@
 
 <div align="center">
 
-<img src="https://github.com/swarnavowork.png" width="140" style="border-radius:50%" />
+<img src="https://github.com/swarnavowork.png" width="140" />
 
-# 🚀 Full Stack Developer | SDET | Test Automation Engineer
+# 🚀 Full Stack Developer • Backend Engineer • SDET
 
-### Building scalable backend systems, automation frameworks & modern web applications.
+### Building scalable applications, automation frameworks & modern backend systems.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Testing-Playwright-blue?style=for-the-badge&logo=playwright" />
+  <img src="https://img.shields.io/badge/Automation-Playwright-blue?style=for-the-badge&logo=playwright" />
   <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws" />
 </p>
 
@@ -23,13 +23,17 @@
 
 ```yaml
 Name: Swarnavo
-Role: Full Stack Developer & SDET
-Focus:
-  - Backend Development
-  - Test Automation
+Role:
+  - Full Stack Developer
+  - Backend Engineer
+  - SDET & Automation Engineer
+
+Specialization:
+  - Backend APIs
   - OTT Platforms
+  - Automation Frameworks
+  - Scalable Systems
   - Cloud Integrations
-  - API Development
 ```
 
 ---
@@ -41,6 +45,15 @@ Focus:
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase" />
 </p>
+
+### Expertise
+
+* REST APIs
+* Authentication Systems
+* Payment Gateway Integration
+* Scalable Backend Architecture
+* Database Design
+* Cloud Integrations
 
 ---
 
@@ -58,10 +71,14 @@ Focus:
 <img src="https://skillicons.dev/icons?i=selenium,cypress,postman" />
 </p>
 
-* Playwright
+### Automation Skills
+
+* Playwright Automation
+* Selenium Frameworks
 * API Automation
-* Automation Framework Development
 * End-to-End Testing
+* Test Strategy & QA
+* CI/CD Testing Pipelines
 
 ---
 
@@ -77,18 +94,18 @@ Focus:
 
 # 🎬 OTT Backend Platform
 
-A scalable OTT backend system with:
+A scalable OTT backend platform with:
 
 ✅ JWT Authentication
-✅ Google Login
+✅ Google Authentication
 ✅ OTP Verification
 ✅ Subscription Management
 ✅ Payment Gateway Integration
 ✅ Continue Watching
 ✅ Watch History
-✅ CMS Module
+✅ CMS Management
 ✅ REST APIs
-✅ Secure Architecture
+✅ Secure Scalable Architecture
 
 ---
 
@@ -117,6 +134,7 @@ A scalable OTT backend system with:
 # 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/swarnavowork">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
@@ -128,25 +146,27 @@ A scalable OTT backend system with:
 <a href="mailto:yourmail@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
 </a>
+
 </p>
 
 ---
 
-# 💻 Current Focus
+# 💻 What I Build
 
 ```text
 ✔ Backend APIs
 ✔ OTT Platforms
 ✔ Automation Frameworks
+✔ Scalable Applications
 ✔ Cloud Infrastructure
-✔ Scalable Architecture
-✔ Freelance Projects
+✔ Test Automation Solutions
+✔ Freelance Client Projects
 ```
 
 ---
 
 <div align="center">
 
-## ⚡ Code • Test • Automate • Deliver ⚡
+# ⚡ Code • Build • Automate • Deliver ⚡
 
 </div>
