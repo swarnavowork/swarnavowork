@@ -139,34 +139,6 @@ Developing automation frameworks for scalable software testing.
 
 ---
 
-
-# 🎬 Featured Project
-
-## OTT Backend Platform
-
-A scalable OTT backend system with:
-
-✅ User Authentication (Email / OTP / Google)
-✅ Subscription & Payment Integration
-✅ Continue Watching & Watch History
-✅ CMS & Content Management
-✅ REST APIs & Secure Architecture
-✅ Cloud Storage Integration
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=swarnavowork&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnavowork&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 GitHub Activity
 
 <div align="center">
@@ -186,10 +158,10 @@ A scalable OTT backend system with:
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://www.linkedin.com/in/swarnavo-pramanik-2327b0183?utm_source=share_via&utm_content=profile&utm_medium=member_android"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:swarnavo.work@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
